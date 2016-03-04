@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="3c082e24-032d-401b-9f7b-b149e6dd23b9" 
+        solutionId="3c082e24-032d-401b-9f7b-b149e6dd23b9" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ItemLevelPermissions"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="6d6a95b4-f533-4a8c-aeb2-cb4595e12e01" />
+  </features>
+</package>

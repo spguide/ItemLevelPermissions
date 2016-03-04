@@ -1,0 +1,3 @@
+G:\Demo\Apps\ItemLevelPermissions\ItemLevelPermissions\ItemLevelPermissions\bin\Debug\ItemLevelPermissions.pdb
+G:\Demo\Apps\ItemLevelPermissions\ItemLevelPermissions\ItemLevelPermissions\obj\Debug\ItemLevelPermissions.dll
+G:\Demo\Apps\ItemLevelPermissions\ItemLevelPermissions\ItemLevelPermissions\obj\Debug\ItemLevelPermissions.pdb
